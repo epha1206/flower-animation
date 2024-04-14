@@ -1,0 +1,94 @@
+#setting {
+    background-color: skyblue;
+    height: 500px;
+    width: 400px;
+}
+
+#grass {
+    background-color: lightgreen;
+    height: 150px;
+    width:100%;
+    position: relative;
+    top: 350px;
+}
+
+#stem {
+    Background-color: darkgreen;
+    height: 150px;
+    width: 10px;
+    position: absolute;
+    top: 260px;
+    left: 195px;
+}
+
+#bud {
+    border-radius: 50%;
+    background-color: brown;
+    height: 30px;
+    width: 30px;
+    position: absolute;
+    left: 185px;
+    bottom: 340px;
+}
+
+#sun {
+    background-color: yellow;
+    border-radius: 50%;
+    height: 150px;
+    width: 150px;
+    position: absolute;
+    left: 250px;
+    bottom: 430px;
+    margin: 0;
+
+}
+
+#pedals1{
+    border-radius: 50%;
+    background-color: rgb(236, 202, 7);
+    height: 100px;
+    width: 80px;
+    position: relative;
+    left: 150px;
+    top: 30px;
+}
+
+#pedals2{
+    border-radius: 50%;
+    background-color: rgb(236, 202, 7);
+    height: 80px;
+    width: 90px;
+    position: absolute;
+    left: 190px;
+    top: 210px;
+}
+
+#pedals3{
+    border-radius: 50%;
+    background-color: rgb(236, 202, 7);
+    height: 100px;
+    width: 80px;
+    position: absolute;
+    left: 180px;
+    top: 220px;
+}
+
+#pedals4{
+    border-radius: 50%;
+    background-color: rgb(236, 202, 7);
+    height: 80px;
+    width: 90px;
+    position: absolute;
+    left: 140px;
+    top: 230px;
+}
+
+#pedals5{
+    border-radius: 50%;
+    background-color: rgb(236, 202, 7);
+    height: 80px;
+    width: 120px;
+    position: absolute;
+    left: 130px;
+    top: 200px;
+}
